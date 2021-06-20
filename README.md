@@ -1,6 +1,6 @@
 # hardhat-trial
 
-This is test project to get familiar with hardhat.
+This is a test project to get familiar with hardhat.
 
 Basic HH commands:
 - to trigger tests
